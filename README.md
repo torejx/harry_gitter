@@ -28,7 +28,7 @@ source harry_gitter.sh
 ```
 
 ## Changes
-PR's are welcome! If you want to add spells or just improve the installation script, send me a pull request, I'll appreciate!
+PRs are welcome! If you want to add spells or just improve the installation script, send me a pull request, I'll appreciate!
 
 ## Disclaimer
 This is a funny project, although it should work properly, I do not recommend a professional usage. 
