@@ -1,3 +1,7 @@
+List of available commands
+
+----
+
 git protego maxima          git init
 git accio                   git fetch
 git immobulus               git commit
@@ -15,3 +19,8 @@ git descendo                git pull
 git dissendium              git checkout
 git cherry-pick             git wingardium leviosa
 git spells                  list all commands
+
+---
+
+made with <3 by torejx
+
