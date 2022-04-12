@@ -19,6 +19,7 @@ source harry_gitter.sh
 ```
 
 ## Usage
+![usage](/img/usage.gif "Usage")
 
 
 ## Uninstall
