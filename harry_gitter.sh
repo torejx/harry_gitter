@@ -61,6 +61,13 @@ git()
   then
     shift
     git checkout "$@"
+  elif [ "$1" = "wingardium" ] && [ "$2" = "leviosa" ]
+  then
+    shift
+    git cherry-pick "$@"
+  elif [ "$1" = "spells" ]
+  then
+    cat spells.txt
   else
     command git "$@"
   fi
