@@ -1,8 +1,9 @@
-# Harry Gitter
+![Harry Gitter](/img/title.jpg "Harry Gitter")
 
-You feel powerful using Git, don't you? 
+### You feel powerful using Git, don't you? 
 
-So, why don't you use spells instead of commands?
+### So, why don't you use spells instead of commands?
+
 
 ![not svn](/img/svn.jpg "Not svn")
 
@@ -25,6 +26,27 @@ source harry_gitter.sh
 ## Uninstall
 ```
 ./uninstall.sh
+```
+
+## Spells
+```
+git protego maxima          git init
+git accio                   git fetch
+git immobulus               git commit
+git legilimens | git lumos  git log
+git aguamenti               git add
+git prior incantatio        git blame
+git depulso                 git push
+git oblivion                git reset
+git reparo | git reverte    git revert
+git revelio                 git status
+git proteus                 git merge
+git geminio                 git clone
+git confundo                git rebase
+git descendo                git pull
+git dissendium              git checkout
+git wingardium leviosa      git cherry-pick
+git spells                  list all commands
 ```
 
 ## Changes

@@ -67,7 +67,33 @@ git()
     git cherry-pick "$@"
   elif [ "$1" = "spells" ]
   then
-    cat spells.txt
+    echo "
+    List of available commands
+
+    ----
+
+    git protego maxima          git init
+    git accio                   git fetch
+    git immobulus               git commit
+    git legilimens | git lumos  git log
+    git aguamenti               git add
+    git prior incantatio        git blame
+    git depulso                 git push
+    git oblivion                git reset
+    git reparo | git reverte    git revert
+    git revelio                 git status
+    git proteus                 git merge
+    git geminio                 git clone
+    git confundo                git rebase
+    git descendo                git pull
+    git dissendium              git checkout
+    git wingardium leviosa      git cherry-pick
+    git spells                  list all commands
+
+    ---
+
+    made with <3 by torejx
+    "
   else
     command git "$@"
   fi
