@@ -4,8 +4,7 @@
 
 ### So, why don't you use spells instead of commands?
 
-
-![not svn](/img/svn.jpg "Not svn")
+---
 
 ## Install
 For bash or zsh:
